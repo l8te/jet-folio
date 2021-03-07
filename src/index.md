@@ -1,6 +1,8 @@
 ---
 layout: base
 title: Home
+eleventyNavigation:
+    key: Home
 ---
 
 Tube denim plastic paranoid neural meta-boy post-dome kanji dissident. Alcohol uplink papier-mache corrupted wristwatch free-market chrome hotdog cardboard. A.I. vinyl concrete Kowloon monofilament apophenia 3D-printed. 
